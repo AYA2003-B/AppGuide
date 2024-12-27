@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936443763229",
+    "project_id": "appguide-2c27a",
+    "storage_bucket": "appguide-2c27a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936443763229:android:39ca93016d779fbf1644f4",
+        "android_client_info": {
+          "package_name": "com.example.appguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM-IefedZV9jEns4oex-8ihtdNeoQgeT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
